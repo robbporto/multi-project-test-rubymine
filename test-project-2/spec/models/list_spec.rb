@@ -1,3 +1,3 @@
-RSpec.describe Foo::List do
+RSpec.describe List do
 
 end
